@@ -69,7 +69,7 @@
 body {
   color: #707070;
   font-size: 0.875rem;
-  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   letter-spacing: .25px;
   line-height: 1.71429;
@@ -82,7 +82,7 @@ body {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #000;
-  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   line-height: 1.1;
   margin-bottom: 10px;
@@ -784,7 +784,7 @@ table p {
 
 .page-title-area .page-title-content.content-style2 .title {
   color: #fff;
-  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 90px;
   font-weight: 800;
   letter-spacing: -2.04px;
@@ -889,7 +889,7 @@ table p {
 
 .page-title-area .page-title-content.content-style5 .title {
   color: #fff;
-  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 90px;
   font-weight: 800;
   letter-spacing: -2.04px;
