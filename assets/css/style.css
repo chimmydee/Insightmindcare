@@ -3084,7 +3084,7 @@ table p {
 .main-menu {
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
+  
 }
 
 .main-menu li {
