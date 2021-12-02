@@ -2910,6 +2910,7 @@ table p {
 */
 .header {
   background: rgb(252, 250, 250);
+  padding: 20px 0px;
 }
 
 .header-top {

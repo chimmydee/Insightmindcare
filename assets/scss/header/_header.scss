@@ -2,6 +2,11 @@
   background: #8f1b1b;
 }
 
+.special-img {
+  width: 50% !important;
+  // height: 100%;
+}
+
 // header top
 
 .header-top {
@@ -42,8 +47,8 @@
 // media css
 
 .header-middle {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
 }
 .media-wrap {
   display: flex;
@@ -311,3 +316,11 @@
     font-size: 13px;
   }
 }
+
+// new changes
+
+// .header-logo a  {
+//   width: 50% !important;
+//   height: 50% !important;
+//   background-color: #6d0101 !important;
+// }
