@@ -156,7 +156,8 @@ p:last-child {
 }
 
 img {
-  max-width: 100%;
+  max-width: 90%;
+  max-height: 1/960%;
 }
 
 iframe {
@@ -8538,8 +8539,9 @@ body.offcanvas-open {
 
 /* ======Added CSS====== */
 .teamBio {
-  border-bottom: 1px solid #7dd1c1;
-  width: 400px;
+  border-bottom: 4px dotted rgb(229, 229, 229);
+  ;
+  width: 100px;
   margin: 0 auto 4rem auto;
 }
 
